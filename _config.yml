@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "NYC Mid-year Report"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "NYC Fellowship Team"
+description              : "The NYC Code for America fellowship team's midyear report."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
